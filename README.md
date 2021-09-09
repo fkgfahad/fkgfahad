@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fkgfahad Fahad Hossain
+- 👋 Hi, I’m @favalonx Fahad Hossain
 - 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on software technologies
-- 📫 How to reach me: fahad@avalonx.io https://www.linkedin.com/in/fkgfahad
+- 📫 How to reach me: fahad@avalonx.io https://www.linkedin.com/in/favalonx
